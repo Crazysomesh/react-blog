@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: cyan;
+  background-size: 100%;
+  background-position: center;
+}
+
+.white {
+  padding: 15px;
+  margin-top: 10%;
+  border-radius: 15px;
+  box-shadow: 0px 0px 8px #000000;
+}
+
+.notify {
+  color: black;
+}
